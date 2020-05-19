@@ -1,7 +1,7 @@
 # Assignment 4 -- instructions and structure
 
 For this assignment you will need to create a new environmnet called Caiman containing all relevant libraries for source extraction.
-Installationthrough conda-forge (August 2019) can be found here[CaImAn](https://github.com/flatironinstitute/CaImAn/blob/master/docs/source/Installation.rst)
+Installationthrough conda-forge (August 2019) can be found here [CaImAn](https://github.com/flatironinstitute/CaImAn/blob/master/docs/source/Installation.rst)
 
 
 
