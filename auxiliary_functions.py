@@ -111,7 +111,7 @@ def get_fig_gSig_filt_vals(file_name = None , gSig_filt_vals = None, output_file
             axes.flatten()[i].axis('off')
     # Save figure
     fig.suptitle('Spatial filtering', fontsize = 15)
-    fig.et_size_inches([7.,7.])
+    fig.set_size_inches([7.,7.])
     fig.savefig(output_file)
 
     return
